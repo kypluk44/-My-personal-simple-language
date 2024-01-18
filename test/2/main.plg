@@ -1,0 +1,5 @@
+input int a
+input int b
+s = a * b
+print s % 109
+Russia

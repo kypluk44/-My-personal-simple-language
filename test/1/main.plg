@@ -1,0 +1,4 @@
+input int a
+input int b
+print a + b
+Russia

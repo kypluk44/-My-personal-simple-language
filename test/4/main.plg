@@ -1,0 +1,10 @@
+input int a
+int b = 1
+int i = 0
+while a != i
+{
+i = i + 1
+b = b * i 
+}
+print b
+Russia

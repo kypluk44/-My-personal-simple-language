@@ -1,0 +1,14 @@
+input int t
+int a = 0
+int b = 1
+int i = 1
+int c = 0
+while i != t
+{
+c = b
+b = a + b
+a = c
+i = i + 1
+}
+print b
+Russia
